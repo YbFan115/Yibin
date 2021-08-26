@@ -15,7 +15,7 @@ University of California, Davis, 03/21-06/21
 
 # Research Experiences
 
-1. Mediated Governance in China (funded undergraduate research project), Renmin University of China, Department of Communication
+1. **Mediated Governance in China** (funded undergraduate research project), Renmin University of China, Department of Communication
 - Principle Investigator
 - Advisor: Associate Professor Yan Yan (Ph.D. in University of Alabama)
 	- Designed research on the effects of mediation of local governance in China by official WeChat and Weibo
@@ -23,17 +23,17 @@ University of California, Davis, 03/21-06/21
 	- Found that Chinese local government uses official Weibo to accomplish local governance (by real-time feedback to citizens’ problems based on executive network online) and propaganda (by showing off the solution for problems publicly) at the same time 
 	- Conducted paper draft and revise, ranked 2nd in the “Challenge Cup” National College Student Academic Works Competition
 
-2. Mapping Online Communities across Different Platforms (ongoing directed research project), University of Washington
+2. **Mapping Online Communities across Different Platforms** (ongoing directed research project), University of Washington
 - Research Assistant
 - Advisor: [Nate TeBlunthuis](https://teblunthuis.cc) (Ph.D. candidate in University of Washington)
 
-3. Social relations of campus delivery men (directed coursework), Renmin University of China, Department of Sociology
+3. **Social Relations of Campus Delivery Men** (directed coursework), Renmin University of China, Department of Sociology
 - Participant
 - Advisor: Associate Professor [Yingying Huang](http://www.ihss.old.pku.edu.cn/en/article/index.aspx?nodeid=121&page=ContentPage&contentid=59156) (Ph.D. in Renmin University of China)
 	- Designed qualitative research on the interpersonal communication and social relations of delivery men in campus
 	- Fieldwork to conduct participatory observation and interviews
 	- Found that delivery men on campus form social relationships, including with fellows & colleagues, teachers and students in the university. They tend to develop affective ties with those who are both fellows and colleagues due to higher homogeneity, while instrumental connections with ordinary colleagues, teachers or students based on the higher heterogeneity.
-	- Conducted paper draft and revise, and presented paper on class.
+	- Conducted paper draft and revised, and presented paper on class.
 
 # Conference Papers
 
