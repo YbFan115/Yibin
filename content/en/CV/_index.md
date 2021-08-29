@@ -5,11 +5,11 @@ type : nolisting
 
 # Education
 
-Renmin University of China, 09/18-06/22
+**Renmin University of China**, 09/18-06/22
 - B.A. in Communication, GPA: 3.72/4.00, 88/100
 - Core Courses: Communication Theories, Computer-Mediated Communication, Stragetic Communication, Polical Sociology, Contemporary Sociological Theories, Public Communication, Quantitative Research Methods, Qualitative Research Methods, Programming Practice (Python).
 
-University of California, Davis, 03/21-06/21
+**University of California, Davis**, 03/21-06/21
 - Global Study Program for spring quarter 2021 (Remote)
 - Relevant Courses: Communication Cognition (*graduate student level seminar, graded A+*), Sociology of Adolescence (high-level undergraduate course, graded A-), Sociology of Culture
 
@@ -40,19 +40,19 @@ University of California, Davis, 03/21-06/21
 # Other Academic Experiences
 
 - Directed Reading
-	Topic: STS studies
-	Advisor: Associate Professor Xiaowei Wang (Ph.D. in Utrecht University), 2020-2021
+	- Topic: STS studies
+	- Advisor: Associate Professor Xiaowei Wang (Ph.D. in Utrecht University), 2020-2021
 
 - Student Academic Community
-	Principal for 2020-2021
-	Advisor: Assistant Professor Xiaoman Zhao (Ph.D. in NUS)
-	Organized regular academic workshop for students focused on humanities and social sciences, including communication, sociology, political science, and philosophy
+	- Principal, 2020-2021
+	- Advisor: Assistant Professor Xiaoman Zhao (Ph.D. in NUS)
+	- Organized regular academic workshop for students focused on social sciences, including communication, sociology, and political science
 
 - 2020 Deans Conference on Journalism and Communication in Beijing
-	Student volunteer organizer, Oct. 2020
+	- Student volunteer organizer, Oct. 2020
 
 - Research Report for Global Leading Schools of Communication
-	Undergraduate Research Assistant, June 2021
+	- Undergraduate Research Assistant, June 2021
 	Advisor: [Wenjing Pan](https://www.researchgate.net/profile/Wenjing-Pan-3)
 
 # Honors and Scholarships
@@ -71,21 +71,22 @@ University of California, Davis, 03/21-06/21
 
 # LANGUAGE
 
-Native Chinese (mandarin) and proficient English
-TOEFL: Reading 30/30, Listening 24/30, Speaking 20/30, Writing 24/30
+- Native Chinese (mandarin) 
+- Proficient English
+	- TOEFL: Reading 30/30, Listening 24/30, Speaking 20/30, Writing 24/30
 
 # References
 
 - [Wenjing Pan](https://www.researchgate.net/profile/Wenjing-Pan-3)
-	Assistant Professor
-	School of Journalism and Communication, Renmin University of China
-	Ph.D. in Communication from University of California, Davis
-	Relationship: Faculty Mentor
+	- Assistant Professor
+	- School of Journalism and Communication, Renmin University of China
+	- Ph.D. in Communication from University of California, Davis
+	- Relationship: Faculty Mentor
 	
 	
 - [Narine S. Yegiyan](https://communication.ucdavis.edu/people/nyegiyan)
-	Associate Professor
-	Department of Communication, University of California, Davis
-	Ph.D. in Mass Communication from Indiana University
-	Relationship: Course Instructor
+	- Associate Professor
+	- Department of Communication, University of California, Davis
+	- Ph.D. in Mass Communication from Indiana University
+	- Relationship: Graduate-level Senimar Instructor
 
