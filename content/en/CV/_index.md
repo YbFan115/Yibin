@@ -86,7 +86,7 @@ type : nolisting
 # References
 
 - [Wenjing Pan](https://www.researchgate.net/profile/Wenjing-Pan-3)
-	- Assistant Professor
+	- Associate Professor
 	- School of Journalism and Communication, Renmin University of China
 	- Ph.D. in Communication from University of California, Davis
 	- Relationship: Faculty Mentor
