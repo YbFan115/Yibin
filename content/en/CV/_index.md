@@ -7,11 +7,14 @@ type : nolisting
 
 **Renmin University of China**, 09/18-06/22
 - B.A. in Communication, GPA: 3.72/4.00, 88/100
-- Core Courses: Communication Theories, Computer-Mediated Communication, Stragetic Communication, Polical Sociology, Contemporary Sociological Theories, Public Communication, Quantitative Research Methods, Qualitative Research Methods, Programming Practice (Python).
+- Core Courses: Communication Theories, Computer-Mediated Communication, Stragetic Communication, Contemporary Sociological Theories, Quantitative Research Methods, Qualitative Research Methods, Programming Practice (Python).
 
 **University of California, Davis**, 03/21-06/21
 - Global Study Program for spring quarter 2021 (Remote)
-- Relevant Courses: Communication Cognition (*graduate student level seminar, graded A+*), Sociology of Adolescence (high-level undergraduate course, graded A-), Sociology of Culture
+- Relevant Courses: 
+	- Communication Cognition (*graduate student level seminar, graded A+*)
+	- Sociology of Adolescence (high-level undergraduate course, graded A-), 
+	- Sociology of Culture
 
 # Research Experiences
 
@@ -23,14 +26,14 @@ type : nolisting
 	- Found that Chinese local government uses official Weibo to accomplish local governance (by real-time feedback to citizens’ problems based on executive network online) and propaganda (by showing off the solution for problems publicly) at the same time 
 	- Conducted paper draft and revise, ranked 2nd in the “Challenge Cup” National College Student Academic Works Competition
 
-2. **Mapping Online Communities across Different Platforms** (ongoing directed research project), University of Washington
+2. **Mapping Online Communities across Different Platforms** (ongoing directed research project), University of Washington, Department of Communication
 - Research Assistant
 - Advisor: [Nate TeBlunthuis](https://teblunthuis.cc) (Ph.D. candidate in University of Washington)
 
 3. **Social Relations of Campus Delivery Men** (directed coursework), Renmin University of China, Department of Sociology
 - Participant
 - Advisor: Associate Professor [Yingying Huang](http://www.ihss.old.pku.edu.cn/en/article/index.aspx?nodeid=121&page=ContentPage&contentid=59156) (Ph.D. in Renmin University of China)
-	- Designed qualitative research on the interpersonal communication and social relations of delivery men in campus
+	- Designed ethnographic research on the interpersonal communication and social relations of delivery men in campus
 	- Fieldwork to conduct participatory observation and interviews
 	- Found that delivery men on campus form social relationships, including with fellows & colleagues, teachers and students in the university. They tend to develop affective ties with those who are both fellows and colleagues due to higher homogeneity, while instrumental connections with ordinary colleagues, teachers or students based on the higher heterogeneity.
 	- Conducted paper draft and revised, and presented paper on class.
@@ -38,6 +41,11 @@ type : nolisting
 # Conference Papers
 
 # Other Academic Experiences
+
+- Academic Public Writing (Ongoing)
+	- Editor for selecting and translating papers into Chinese from leading international academic journals, such as JCMC, AJS, ASR, etc.
+	- Followed by more than 40 thousand people on social media (WeChat)
+	- Started from Sept. 2021
 
 - Directed Reading
 	- Topic: STS studies
