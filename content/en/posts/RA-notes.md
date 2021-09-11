@@ -22,14 +22,15 @@ draft: false
 - Week 3(Aug. 30 - Sept. 5)
 	- **ML Classication**: To find out whether a subreddit and a fandom wiki is really similar or the mapping between them is correct, there can be some ideas from [machine learning classification](https://machinelearningmastery.com/types-of-classification-in-machine-learning/). 
 	- **Rules for prediction**: Simpler than real ML classifier, if we give a set of rules to predict the correctnesss of mappings it would also make sense. An example rule Nate gave is:
-	````
+	`````
 	The wiki is the top linked wiki from the subreddit AND
 	(The subreddit and wiki are linked in wikidata OR
 		The subreddit and wiki names are similar OR
 		The subreddit-link zscore for the wiki is large
 		)
 	
-	````
+	`````
+
 	Then we can say their names are similar even they have a low [edit distance](https://en.wikipedia.org/wiki/Edit_distance).
 	- Validation Set
 	- **More text features**: We expanded the rules to check the text match ratio besides edit distance by using [SequenceMatcher](https://towardsdatascience.com/sequencematcher-in-python-6b1e6f3915fc), to make a more complicated and accurate prediction. This is quite connected with [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing).

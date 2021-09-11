@@ -18,6 +18,7 @@ This project begins with my coursework on Communication Cognition, which is a gr
 ### Methodology
 - Experience Sampling Method
 	Participants will be asked to think about what media multitasking behavior they have done, and fill in the following form three times a day during two weeks.
+	
 	![Data Collection Form](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/cmn221_data_collect.png)
 
 - Tested Models
