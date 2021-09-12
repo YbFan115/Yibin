@@ -27,22 +27,17 @@ Internet and technology use have changed the government behavior. In China, a la
 
 - Findings:
     1. The data consist of 1711 tweets, among which 1199 tweets are reposted by the coordinator account, which means only around one third in the amount of tweets are truly from those residents who used Weibo to pose local problems. The coordination account reposted the tweets in a short response time (mean = 9.57 h),  to conduct the collaboration with the departments, and to show off the government was playing its role in local governance.
-    <div align = center>![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/ResponseTime.png "Figure 1: Response time calculation from the coordinator")<width = 100></div>
+    ![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/ResponseTime.png "Figure 1: Response time calculation from the coordinator")
 
     2. According to the interaction in tweets, we visualized the coordinator-centric network, in which every node represented an account for particular department in the local government, and the node degree (mean = 14, SD = 19) was defined as the times these accounts were mentioned by the coordinator:
-    <div align = center>
-        ![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_raw.png "Figure 1: Ego-centric network for the coordination")
-    <width = 100></div>
-
-    <div align = center>
-        ![Node Degree of Nodes (mean = 14, SD = 19)](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_column.png "Table 1: Values for the node degree")
-    <width = 100></div>
+    ![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_raw.png "Figure 1: Ego-centric network for the coordination")
+    
+    
+    ![Node Degree of Nodes (mean = 14, SD = 19)](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_column.png "Table 1: Values for the node degree")
 
     3. Then we removed the accounts whose node degree was lower than the mean value, and added the collaboration among other accounts. There appear three clusters, which are verified to be related intensely to the **public transport** and **urban planning**.
 
-    <div align = center>
-        ![Social Network Clusters](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_simple.png "Figure 3: Socio-centric network for the collaboration")
-    <width = 100></div>
+    ![Social Network Clusters](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_simple.png "Figure 3: Socio-centric network for the collaboration")
 
 ### Study 3: Digital divide and attitude difference
 
