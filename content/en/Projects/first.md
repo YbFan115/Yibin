@@ -12,7 +12,7 @@ draft: false
 
 Internet and technology use have changed the government behavior. In China, a large number of government related official accounts on Weibo (which is a Chinese online platform like Twitter) has been run to better conduct governance. The current project is focused on a typical set of official accounts run by departments of the local government in a particular district, using mixed methods to comprehensively understand the coordination, collaboration, and effects of the mediated government behavior.
 
-### Study 1: Collaboration and coordination in the community of staff in government departments
+### Study 1: Collaboration and coordination
 
 - Method: We conducted interviews with 7 official masters of different departments in the local government, who are running the Weibo accounts as all or part of their daily work.
 - Findings:
@@ -30,15 +30,21 @@ Internet and technology use have changed the government behavior. In China, a la
     <div align = center>![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/ResponseTime.png "Figure 1: Response time calculation from the coordinator")<width = 100></div>
 
     2. According to the interaction in tweets, we visualized the coordinator-centric network, in which every node represented an account for particular department in the local government, and the node degree (mean = 14, SD = 19) was defined as the times these accounts were mentioned by the coordinator:
-    <div align = center>![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_raw.png "Figure 1: Ego-centric network for the coordination")<width = 100></div>
+    <div align = center>
+        ![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_raw.png "Figure 1: Ego-centric network for the coordination")
+    <width = 100></div>
 
-    <div align = center>![Node Degree of Nodes (mean = 14, SD = 19)](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_column.png "Table 1: Values for the node degree")<width = 100></div>
+    <div align = center>
+        ![Node Degree of Nodes (mean = 14, SD = 19)](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_column.png "Table 1: Values for the node degree")
+    <width = 100></div>
 
     3. Then we removed the accounts whose node degree was lower than the mean value, and added the collaboration among other accounts. There appear three clusters, which are verified to be related intensely to the **public transport** and **urban planning**.
 
-    <div align = center>![Social Network Clusters](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_simple.png "Figure 3: Socio-centric network for the collaboration")<width = 100></div>
+    <div align = center>
+        ![Social Network Clusters](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_simple.png "Figure 3: Socio-centric network for the collaboration")
+    <width = 100></div>
 
-### Study 3: Impact of digital divide on the attitude towards citizen participation in online social governance for local residents
+### Study 3: Digital divide and attitude difference
 
 - Method: Survey (n=188) on a representative sample of local residents who are the audience of official Weibo. Indepedent variables: Internet attitude, Internet skills, Internet use frequency, Internet outcomes. Dependent variable: the attitude towards participation in local governance.
 - Findings: 
