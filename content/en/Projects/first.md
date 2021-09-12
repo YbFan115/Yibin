@@ -6,32 +6,43 @@ draft: false
 
  - Undergraduate research project, 09/20 - 05/21
  - Poster presentation on undergraduate academic works competition
- - Advisor: Associate Professor Yan Yan (Ph.D. in University of Alabama)
+ - Advisor: Associate Professor Yan Yan (Ph.D. in communication at University of Alabama)
 
-## Abstract 
-Internet and technology use have changed the government behavior. In China, a large number of government related official accounts on Weibo (which is a Chinese online platform like Twitter) has been run to better conduct governance. The current project is focused on a typical set of official accounts run by the departments of local government, using mixed methods to comprehensively understand the mechanics and effects of the mediated government behavior.
+### Background
 
-### Study 1: How it runs - collaboration and coordination.
+Internet and technology use have changed the government behavior. In China, a large number of government related official accounts on Weibo (which is a Chinese online platform like Twitter) has been run to better conduct governance. The current project is focused on a typical set of official accounts run by departments of the local government in a particular district, using mixed methods to comprehensively understand the coordination, collaboration, and effects of the mediated government behavior.
+
+### Study 1: Collaboration and coordination in the community of staff in government departments
+
 - Method: We conducted interviews with 7 official masters of different departments in the local government, who are running the Weibo accounts as all or part of their daily work.
 - Findings:
+    1. The staff from different departments of the local government formed a community to collaborate to solve the problems posed by the residents. They would communicate online and meet offline regularly. 
+    2. There was one particular account who play a role as the coordinator, which means it aggregated the tweets posed by residents online, then reposted them to mention the corresponding department, and gave feedback to the residents after the problems got solved. The whole process would be shown publicly on the Weibo platform that everyone could see, and all the relevant tweets were given a tag by the coordinator to form aggregation.
+    3. The coordinator which was claimed as the account of the department of publicity, however, was run by one editor who actually served as an  editor in the local journalism media. The higher level of media literacy with the double identites made the edtior balance between the mediated society and the traditional administration departments.
+
 
 ### Study 2: Governance, propoganda, or both?
-- Method: We pulled the data of all the local governance related tweets from 2015 to 2021 by Python. 
+
+- Method: We pulled the data of all the local governance related tweets under the tag from 2015 to 2021 by Python. 
 
 - Findings:
-    1. The data consist of 1711 tweets, among which 1199 tweets are reposted by the coordinator account, which means only around one third in the amount of tweets are truly from those residents who used Weibo to pose local problems. The coordination account repost the tweet to conduct the collaboration with the departments and to show off the government was playing its role in governance.
+    1. The data consist of 1711 tweets, among which 1199 tweets are reposted by the coordinator account, which means only around one third in the amount of tweets are truly from those residents who used Weibo to pose local problems. The coordination account reposted the tweets in a short response time (mean = 9.57 h),  to conduct the collaboration with the departments, and to show off the government was playing its role in local governance.
+    <div align = center>![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/ResponseTime.png "Figure 1: Response time calculation from the coordinator")<width = 100></div>
 
-    2. According to the interaction in tweets, we visualized the coordinator-centered network:
-    <div align = center>![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_raw.png)<width = 100>
+    2. According to the interaction in tweets, we visualized the coordinator-centric network, in which every node represented an account for particular department in the local government, and the node degree (mean = 14, SD = 19) was defined as the times these accounts were mentioned by the coordinator:
+    <div align = center>![Social Network Centered the Coordinatior of Local Official Accounts](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_raw.png "Figure 1: Ego-centric network for the coordination")<width = 100></div>
 
-    <div align = center>![Node Degree of Nodes (mean = 14, SD = 19)](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_column.png)<width = 100>
+    <div align = center>![Node Degree of Nodes (mean = 14, SD = 19)](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_column.png "Table 1: Values for the node degree")<width = 100></div>
 
-    3. Then we moved the accounts whose node degree (mean = 14, SD = 19) is lower than mean value, and added the collaboration among other accounts. There appears three clusters, which are verified to be related to the public transport and city planning.
+    3. Then we removed the accounts whose node degree was lower than the mean value, and added the collaboration among other accounts. There appear three clusters, which are verified to be related intensely to the **public transport** and **urban planning**.
 
-    <div align = center>![Social Network Clusters](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_simple.png)<width = 100>
+    <div align = center>![Social Network Clusters](https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/Govern_network_simple.png "Figure 3: Socio-centric network for the collaboration")<width = 100></div>
 
-### Study 3
-Questionnaire
+### Study 3: Impact of digital divide on the attitude towards citizen participation in online social governance for local residents
 
+- Method: Survey (n=188) on a representative sample of local residents who are the audience of official Weibo. Indepedent variables: Internet attitude, Internet skills, Internet use frequency, Internet outcomes. Dependent variable: the attitude towards participation in local governance.
+- Findings: 
+    1. Internet attitude was found to positively affect attitude towards participation in governance significantly, while Internet skills doesn't make an impact significantly.
+    2. For those who once use Weibo to pose problems (n=54), Internet use frequency could affect the attitude significantly, while the Internet outcomes had no significant influence.
 
 
