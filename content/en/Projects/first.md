@@ -41,7 +41,7 @@ Internet and technology use have changed the government behavior. In China, a la
 
 ### Study 3: Digital divide and attitude difference
 
-- Method: Survey (n=188) on a representative sample of local residents who are the audience of official Weibo. Indepedent variables: Internet attitude, Internet skills, Internet use frequency, Internet outcomes. Dependent variable: the attitude towards participation in local governance.
+- Method: Survey on a representative sample (n=188) of local residents who are the audience of official Weibo. Indepedent variables: Internet attitude, Internet skills, Internet use frequency, Internet outcomes. Dependent variable: the attitude towards participation in local governance.
 - Findings: 
     1. Internet attitude was found to positively affect attitude towards participation in governance significantly, while Internet skills doesn't make an impact significantly.
     2. For those who once use Weibo to pose problems (n=54), Internet use frequency could affect the attitude significantly, while the Internet outcomes had no significant influence.
