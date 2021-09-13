@@ -21,12 +21,12 @@ type : nolisting
 1. **Mediated Governance in China** (funded undergraduate research project), Renmin University of China, Department of Communication
 - Principle Investigator
 - Advisor: Associate Professor Yan Yan (Ph.D. in University of Alabama)
-	- Designed research on the effects of mediation of local governance in China by official WeChat and Weibo
-	- Data collection by Python and social network analysis by UCINET
-	- Found that Chinese local government uses official Weibo to accomplish local governance (by real-time feedback to citizens’ problems based on executive network online) and propaganda (by showing off the solution for problems publicly) at the same time 
+	- Designed mixed-methods research on the effects of mediation of local governance in China by official WeChat and Weibo
+	- Collected data by python and conducted social network analysis
+	- Found that Chinese local government used official Weibo to accomplish local governance (by real-time feedback to citizens’ problems based on executive network online) and propaganda (by showing off the solution for problems publicly) at the same time 
 	- Conducted paper draft and revise, ranked 2nd in the “Challenge Cup” National College Student Academic Works Competition
 
-2. **Mapping Online Communities across Different Platforms** (ongoing directed research project), University of Washington, Department of Communication
+2. [**Mapping Online Communities across Different Platforms**](https://ybfan115.github.io/en/2021/08/30/ra-notes/) (ongoing directed research project), University of Washington, Department of Communication
 - Research Assistant
 - Advisor: [Nate TeBlunthuis](https://teblunthuis.cc) (Ph.D. candidate in University of Washington)
 
@@ -37,8 +37,6 @@ type : nolisting
 	- Fieldwork to conduct participatory observation and interviews
 	- Found that delivery men on campus form social relationships, including with fellows & colleagues, teachers and students in the university. They tend to develop affective ties with those who are both fellows and colleagues due to higher homogeneity, while instrumental connections with ordinary colleagues, teachers or students based on the higher heterogeneity.
 	- Conducted paper draft and revised, and presented paper on class.
-
-# Conference Papers
 
 # Other Academic Experiences
 
@@ -61,7 +59,7 @@ type : nolisting
 
 - Research Report for Global Leading Schools of Communication
 	- Undergraduate Research Assistant, June 2021
-	Advisor: [Wenjing Pan](https://www.researchgate.net/profile/Wenjing-Pan-3)
+	- Advisor: [Wenjing Pan](https://www.researchgate.net/profile/Wenjing-Pan-3)
 
 # Honors and Scholarships
 
@@ -71,7 +69,7 @@ type : nolisting
 
 - Scholarship of Academic Excellence, 2019-2020, 2020-2021 
 	- Renmin University of China
-	- Awarded as top rank 20% academically excellent students
+	- Awarded as top rank 10% academically excellent students
 
 - Fund of Student's Research Practice Program, 2020-2021
 	- Renmin University of China
