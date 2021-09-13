@@ -8,7 +8,7 @@ title: Home
 I am an undergraduate student majoring in communication at Renmin University in China, Beijing.
 
 ### Research Interest
-My research interest broadly lies in how digital technology can promote human communication and construct social change. I am passionately interested in two major aspects: how communities and groups are reshaped in the digital environment, and how Internet brings human behavioral change. I am trying to make contributions on these two veins repsectively, and also figuring out ways to address a macro-micro link between them.
+My research interest broadly lies in how digital technology can promote human communication and construct social change. I am passionately interested in two major aspects: how communities, group, and organizations are reshaped in the digital environment, and how Internet brings human behavioral change. I am trying to make contributions on these two veins repsectively, and also figuring out ways to address a macro-micro link between them.
 
 To tackle these issues, I use mostly quantitive methods in my work, such as experiment, questionnaire, survey, basic computational methods, and social network analysis. I also have some experiences in qualitative methods including fieldwork and historical analysis.
 
