@@ -1,5 +1,5 @@
 ---
-title: "Mediated Governance in China"
+title: "Mediated Local Governance in China"
 date: 2021-09-10T14:49:39+08:00
 draft: false
 ---
@@ -10,7 +10,15 @@ draft: false
 
 ## Background
 
-Internet and technology use have changed the government behavior. In China, a large number of government related official accounts on Weibo (which is a Chinese online platform like Twitter) has been run to better conduct governance. The current project is focused on a typical set of official accounts run by departments of the local government in a particular district, using mixed methods to comprehensively understand the coordination, collaboration, and effects of the mediated government behavior.
+Internet and technology use have changed the government behavior and the public life. In China, a large number of government related official accounts on Weibo (which is a Chinese online platform like Twitter) has been run to better conduct governance.
+
+This project was focused on a typical set of official accounts run by departments of the local government in a particular district. In this case, local citizens or residents have digital access to posing questions relevant about the public life, and are promised to get a prompt response and feedback from the government on the Weibo platform. The following figure shows how the feedback pattern runs.
+
+<div align = center>
+        <img src = "https://raw.githubusercontent.com/YbFan115/ybfan115.github.io/master/resources/_gen/images/MediatedGovern.png">
+    </div>
+
+We were using mixed research methods to comprehensively understand the coordination, collaboration, and effects of the mediated government behavior.
 
 ## Study 1: Collaboration and coordination
 

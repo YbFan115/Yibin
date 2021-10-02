@@ -13,7 +13,7 @@ type : nolisting
 - Global Study Program for spring quarter 2021 (Remote)
 - Relevant Courses: 
 	- Communication Cognition (*graduate student level seminar, graded A+*)
-	- Sociology of Adolescence (high-level undergraduate course, graded A-), 
+	- Sociology of Adolescence 
 	- Sociology of Culture
 
 # Research Experiences
@@ -38,6 +38,10 @@ type : nolisting
 	- Found that delivery men on campus form social relationships, including with fellows & colleagues, teachers and students in the university. They tend to develop affective ties with those who are both fellows and colleagues due to higher homogeneity, while instrumental connections with ordinary colleagues, teachers or students based on the higher heterogeneity.
 	- Conducted paper draft and revised, and presented paper on class.
 
+# Conference Paper
+
+- Wang, Y. & **Fan, Y.** (2021). Listening to Chinese Ancient Opera: Linking Media History and Sound Studies. Paper presented to the Annual Conference of the Chinese Association for History of Journalism and Communication. Shenzhen, China.
+
 # Other Academic Experiences
 
 - Academic Public Writing (Ongoing)
@@ -49,10 +53,10 @@ type : nolisting
 	- Topic: STS studies
 	- Advisor: Associate Professor Xiaowei Wang (Ph.D. in Utrecht University), 2020-2021
 
-- Student Academic Community
+- Student Academic Community at Renmin University of China
 	- Principal, 2020-2021
 	- Advisor: Assistant Professor Xiaoman Zhao (Ph.D. in NUS)
-	- Organized regular academic workshop for students focused on social sciences, including communication, sociology, and political science
+	- Organized regular academic workshop for students focused on social sciences, including communication, sociology, and political theory
 
 - 2020 Deans Conference on Journalism and Communication in Beijing
 	- Student volunteer organizer, Oct. 2020
@@ -71,7 +75,7 @@ type : nolisting
 	- Renmin University of China
 	- Awarded as top rank 10% academically excellent students
 
-- Fund of Student's Research Practice Program, 2020-2021
+- Fund for Student's Research Practice Program, 2020-2021
 	- Renmin University of China
 	- Awarded as the project leader 
 
@@ -79,7 +83,6 @@ type : nolisting
 
 - Native Chinese (mandarin) 
 - Proficient English
-	- TOEFL: Reading 30/30, Listening 24/30, Speaking 20/30, Writing 24/30
 
 # References
 
