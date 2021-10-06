@@ -24,7 +24,7 @@ type : nolisting
 	- Designed mixed-methods research on the effects of mediation of local governance in China by official WeChat and Weibo
 	- Collected data by python and conducted social network analysis
 	- Found that Chinese local government used official Weibo to accomplish local governance (by real-time feedback to citizens’ problems based on executive network online) and propaganda (by showing off the solution for problems publicly) at the same time 
-	- Conducted paper draft and revise, ranked 2nd in the “Challenge Cup” National College Student Academic Works Competition
+	- Conducted paper draft and revise, presented on 2021 Conference of SJTU-ICA
 
 2. [**Mapping Online Communities across Different Platforms**](https://ybfan115.github.io/en/2021/08/30/ra-notes/) (ongoing directed research project), University of Washington, Department of Communication
 - Research Assistant
@@ -35,12 +35,12 @@ type : nolisting
 - Advisor: Associate Professor [Yingying Huang](http://www.ihss.old.pku.edu.cn/en/article/index.aspx?nodeid=121&page=ContentPage&contentid=59156) (Ph.D. in Renmin University of China)
 	- Designed ethnographic research on the interpersonal communication and social relations of delivery men in campus
 	- Fieldwork to conduct participatory observation and interviews
-	- Found that delivery men on campus form social relationships, including with fellows & colleagues, teachers and students in the university. They tend to develop affective ties with those who are both fellows and colleagues due to higher homogeneity, while instrumental connections with ordinary colleagues, teachers or students based on the higher heterogeneity.
-	- Conducted paper draft and revised, and presented paper on class.
+	- Found that delivery men on campus form social relationships including with fellows & colleagues, teachers and students in the university. They tend to develop affective ties with those who are both fellows and colleagues due to higher homogeneity, while instrumental connections with ordinary colleagues, teachers or students based on the higher heterogeneity.
 
 # Conference Paper
 
-- Wang, Y. & **Fan, Y.** (2021). Listening to Chinese Ancient Opera: Linking Media History and Sound Studies. Paper presented to the Annual Conference of the Chinese Association for History of Journalism and Communication. Shenzhen, China.
+- Wang, Y. & **Fan, Y.** (2021). Listening to Chinese Ancient Opera: Linking Media History and Sound Studies. Paper presented on the *Annual Conference of the Chinese Association for History of Journalism and Communication. Shenzhen, China.*
+- **Fan, Y.** (2021). The Effects of Digital Divide on the Citizen Engagement in Local Governance: Based on a Survey on the Audience of Official Weibo Run by Local Government in Ma'anshan. Paper presented on the [*2021 ICA-affiliated New Media International Conference in SJTU.*](https://en.sjtu.edu.cn/events/2046-call-for-papers-2021-ica-affiliated-new-media-international-conference-in-sjtu) *Shanghai, China.*
 
 # Other Academic Experiences
 
