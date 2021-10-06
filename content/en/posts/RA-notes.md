@@ -17,7 +17,10 @@ draft: false
 
 - **Wikidata**: According to the query outcome in Wikidata, it seems like dataset in Wikidata does not have a good coverage for the match between a fandom wiki and a subreddit, but include almost no error due to the properties for Wikipedia. We are going to deal with more data to get back at the dataset in Wikidata.
 
-- **Machine Learning Classification**: To find out whether a subreddit and a fandom wiki is really similar or the mapping between them is correct, there can be some ideas from [machine learning classification](https://machinelearningmastery.com/types-of-classification-in-machine-learning/). 
+- **Machine Learning Classification**: To find out whether a subreddit and a fandom wiki is really similar or the mapping between them is correct, there can be some ideas from [machine learning classification](https://machinelearningmastery.com/types-of-classification-in-machine-learning/).
+
+- **Machine Learning for Social Sciences**: Machine learning models used in social sciences has triggered a heated discussion: whether it is "garbage in, garbage out" ([Geiger et al., 2019](https://doi.org/10.1145/3351095.3372862)) or "theory in, theory out" ([Radford & Joseph, 2020](https://doi.org/10.3389/fdata.2020.00018))?
+
 - **Rules for prediction**: Simpler than real ML classifier, if we give a set of rules to predict the correctnesss of mappings it would also make sense. An example rule Nate gave is:
 	
 	```
@@ -37,3 +40,4 @@ draft: false
 - Simulation: Reality is recursive. The macro outcome can be often surprising even if we have known the micro behavior well. Simulation methods, especially **agent-based models**, can be used to study the emergence in the complex systems, such as how individual behavior bias can accumulate to the group size difference ([Foote et al., 2020](https://arxiv.org/abs/2006.03119v1)). Simulation can be a promising field and method to address the micro-macro link in social scientific research.
 
 - Hyak: High performance computer cluster at UW. It can be used to conduct large amount of computing.
+
