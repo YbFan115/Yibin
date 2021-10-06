@@ -36,4 +36,4 @@ draft: false
 
 - Simulation: Reality is recursive. The macro outcome can be often surprising even if we have known the micro behavior well. Simulation methods, especially **agent-based models**, can be used to study the emergence in the complex systems, such as how individual behavior bias can accumulate to the group size difference ([Foote et al., 2020](https://arxiv.org/abs/2006.03119v1)). Simulation can be a promising field and method to address the micro-macro link in social scientific research.
 
-- Hyak: High performance computer cluster
+- Hyak: High performance computer cluster at UW. It can be used to conduct large amount of computing.
